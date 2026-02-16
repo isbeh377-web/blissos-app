@@ -1,6 +1,6 @@
 {
-  "name": "Exaroton (Unofficial)",
-  "short_name": "Exaroton",
+  "name": "BlissOS (Unofficial)",
+  "short_name": "BlissOS",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
